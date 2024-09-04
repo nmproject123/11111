@@ -7,6 +7,7 @@ const MyComponent = () => {
     { id: 2, name: 'Jane Doe' },
     { id: 3, name: 'Bob Smith' },
     { id: 4, name: 'Alice Johnson' },
+    // { id: 4, name: 'Alice Johnson' },
   ]);
 
   const handleSearch = (event) => {
